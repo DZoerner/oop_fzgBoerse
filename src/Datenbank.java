@@ -1,0 +1,2 @@
+public class Datenbank {
+}
