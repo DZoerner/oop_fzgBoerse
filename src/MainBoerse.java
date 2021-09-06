@@ -110,6 +110,7 @@ public class MainBoerse {
             hauptMenue();
         }
     }
+
     // ich habe einfach mal ein paar Kommentare in Zeile 113 eingefügt mal sehen wie es nun weitergehen soll
     System.out.println("Das ist toll");
 
