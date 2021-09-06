@@ -9,6 +9,7 @@ public class Vehicle {
     private double price;
 
 
+    // Hello I bims 1 Idiot
     public Vehicle(int vehicleId, String vehicleType, String brand, String model, String color, int constructionYear, double price) {
         this.vehicleId = vehicleId;
         this.vehicleType = vehicleType;
