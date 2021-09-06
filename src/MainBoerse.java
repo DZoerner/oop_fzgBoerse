@@ -23,6 +23,7 @@ public class MainBoerse {
     }
 
     public void hauptMenue() {
+        System.out.println("OH");
         System.out.println("-------------------------------------------------------------------------------------" + "\n" +
                 " Fahrzeugbörse Hauptmenü von: [Ihr Vor – und Nachname]" + "\n" +
                 "-------------------------------------------------------------------------------------");
