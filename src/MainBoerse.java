@@ -130,25 +130,6 @@ public class MainBoerse {
 
         hauptMenue();
         //TODO refactor
-        //Was wird hier ausgegeben?
-        //!!!
-//        vehicleArrayList.forEach((n) -> System.out.println(n.getVehicleId() + n.getBrand() + n.getModel() + n.getColor() +
-//                n.getConstructionYear() + n.getPrice()));
-//        System.out.println("Geben Sie die ID des zu bearbeitenden Fahrzeugs ein: ");
-//        int userVehicleChoice = getUserInput.nextInt();
-//        System.out.println(vehicleArrayList.get(userVehicleChoice));
-//        System.out.println("Welche Angabe wollen Sie bearbeiten?\n1)Fahrzeugtyp\n2)Fahrzeugmarke\n3)Fahrzeugmodell\n4)Fahrzeugfarbe\n5)Baujahr\nPreis");
-//        try {
-//            switch (getUserInput.nextInt()) {
-//                case 1:
-//                    System.out.println("Geben Sie nun den neuen Wert ein: ");
-//                    // vehicleArrayList(userVehicleChoice).setVehicleType(getUserInput.next());
-//
-//            }
-//        } catch (InputMismatchException e) {
-//            System.out.println("Eingabe nicht erkannt");
-//            fzgBearbeiten();
-//        }
     }
 
     // test for fzgBearbeiten
