@@ -131,6 +131,7 @@ public class MainBoerse {
         hauptMenue();
         //TODO refactor
         //Was wird hier ausgegeben?
+        //!!!
 //        vehicleArrayList.forEach((n) -> System.out.println(n.getVehicleId() + n.getBrand() + n.getModel() + n.getColor() +
 //                n.getConstructionYear() + n.getPrice()));
 //        System.out.println("Geben Sie die ID des zu bearbeitenden Fahrzeugs ein: ");
