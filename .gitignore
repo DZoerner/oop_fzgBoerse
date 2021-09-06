@@ -1,3 +1,9 @@
 # Default ignored files
 .idea/*
 out/.*
+/out/production/oop_fzgBoerse/data.backup.csv
+/out/production/oop_fzgBoerse/data.csv
+/out/production/oop_fzgBoerse/Datenbank.class
+/out/production/oop_fzgBoerse/MainBoerse.class
+/oop_fzgBoerse.iml
+/out/production/oop_fzgBoerse/Vehicle.class
