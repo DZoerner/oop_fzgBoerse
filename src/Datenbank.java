@@ -1,2 +1,3 @@
-public class Datenbank {
+public class
+Datenbank {
 }

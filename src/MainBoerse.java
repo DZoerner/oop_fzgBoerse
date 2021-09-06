@@ -110,6 +110,8 @@ public class MainBoerse {
             hauptMenue();
         }
     }
+    // Mein Kommentar ist besser
+    System.out.println("Test");
 
     // ToDo: REMOVE ME!!!!!
     private void addTestData() {
