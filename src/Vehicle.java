@@ -1,5 +1,5 @@
 public class Vehicle {
-
+//TEST NR2. +-0
     private final int vehicleId;
     private String vehicleType;
     private String brand;

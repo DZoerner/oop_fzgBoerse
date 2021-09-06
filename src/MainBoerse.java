@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;
-
+// Test
 public class MainBoerse {
     public static final String FILENAME = "src/data.csv";
 
